@@ -25,7 +25,7 @@ app.post('/api/recipes',(req,res)=>{
     ingredients ,
     instructions,
     cookTime,
-    tags: tags || [],
+   
   };
 
 
